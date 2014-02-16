@@ -1,0 +1,17 @@
+                                                        TODO
+                                                        
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-Design character models, blocks, tools, machines 
+
+-Player skins
+Wolf
+Tiger
+Dragon
+Human
+Husky
+
+Can add other suggestions
+
+-Blocks
+Drying rack (multi block)

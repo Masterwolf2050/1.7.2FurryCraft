@@ -1,0 +1,17 @@
+[
+{
+	"modid": "FC",
+	"name": "FurryCraft",
+	"description": "I'm derping with this tutorial",
+	"version": "1.0",
+	"mcversion": "1.6.4",
+	"url": "",
+	"updateUrl": "",
+	"authors": ["Lone Blackfnag"],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"parent":"",
+	"dependencies": []
+}
+]

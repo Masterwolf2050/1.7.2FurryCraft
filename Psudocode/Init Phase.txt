@@ -1,0 +1,28 @@
+Init (pre)
+   set version number
+   Initialize the log helper
+   Initialize the configuration
+   Conduct the version check and log the result
+   Initialize the Version Check Tick Handler (Client only)
+   Initialize the InterModCommunications Tick Handler (Server only)
+   Initialize the Render Tick Handler (Client only)
+   Register the KeyBinding Handler (Client only)
+   Register the Sound Handler (Client only)
+   Initialize mod blocks
+   Initialize mod items
+            
+Init (main)
+    Register the GUI Handler
+    Register the Item Pickup Handler
+    Register the hook to initialize the EmcRegistry
+    Register the ItemTooltipEvent Handler
+    Register the DrawBlockHighlight Handler
+    Initialize custom rendering and pre-load textures (Client only)
+    Initialize our Crafting Handler
+    Handle fluid registration
+    Initialize mod tile entities
+    Register our fuels
+    Initialize addons (which work with IMC, and must be used in Init)
+
+Init (post)
+    Create log files
